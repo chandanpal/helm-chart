@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  Workflow18:
+  - apiVersion: v2
+    created: "2020-01-22T04:29:52.141737778-05:00"
+    description: 'Helm chart for Workflow18 '
+    digest: 6dc3dcbc9bb4b6eb8ac1660ecfdedec840d2c42cad308f9668aa7aff8bc717b5
+    name: Workflow18
+    type: application
+    urls:
+    - Workflow18-1.0.tgz
+    version: "1.0"
+generated: "2020-01-22T04:29:52.139797331-05:00"
